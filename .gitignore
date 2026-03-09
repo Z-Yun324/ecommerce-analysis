@@ -1,0 +1,25 @@
+# --- Python ---
+# 虛擬環境
+venv/
+.venv/
+env/
+.env/
+
+# Python 的快取檔案
+__pycache__/
+*.pyc
+
+# --- Jupyter Notebook ---
+# Jupyter 的執行檢查點
+.ipynb_checkpoints/
+
+# --- IDE / 編輯器設定 ---
+# VSCode 的本地設定
+.vscode/
+
+# --- 作業系統檔案 ---
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
